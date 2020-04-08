@@ -1,0 +1,9 @@
+Assignment.ui.StudentRegister$6
+Assignment.ui.StudentRegister$5
+Assignment.ui.StudentRegister$4
+Assignment.ui.StudentRegister$3
+Assignment.ui.StudentRegister$2
+Assignment.ui.StudentRegister$1
+Assignment.ui.StudentRegister
+Assignment.ui.StudentRegister$8
+Assignment.ui.StudentRegister$7

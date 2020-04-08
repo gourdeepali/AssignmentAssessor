@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/admin/gui/Addsubject.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/student/gui/StudentLogin.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/admin/gui/AdminProfile.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/teacher/gui/TeacherAddAssignment.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/student/gui/StudentRegister.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/admin/gui/AdminFrame.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/student/dao/AssignmentDAO.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/student/gui/StudentProfile.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/admin/pojo/Admin.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/teacher/dao/TeacherDAO.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/admin/gui/AdminRemoveStudent.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/student/gui/StudentFrame.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/student/pojo/Subject.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/teacher/gui/Studentmarks.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/teacher/gui/TeacherLoginFrame.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/admin/dao/admindao.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/student/pojo/Assignment.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/student/dao/SubjectDAO.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/teacher/gui/TeacherReport.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/admin/gui/AdminEditTeacher.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/teacher/gui/TeacherFrame.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/teacher/dao/SubjectDAO.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/student/pojo/Student.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/teacher/gui/TeacherProfile.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/teacher/gui/TeacherSubjectFrame.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/teacher/dao/AssignmentDAO.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/student/dao/StudentDAO.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/student/gui/StudentSubjectFrame.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/admin/gui/AddTeacher.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/admin/gui/AdminRemoveTeacher.java</file>
+            <file>file:/C:/Users/aman/Desktop/AssignmentAssesor/src/teacher/pojo/Teacher_subject.java</file>
+        </group>
+    </open-files>
+</project-private>
